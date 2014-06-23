@@ -1,0 +1,5 @@
+C:\Users\Jeremy Yong\Documents\Visual Studio 2012\Projects\SwenUI\SwenUI\bin\SwenUI.dll
+C:\Users\Jeremy Yong\Documents\Visual Studio 2012\Projects\SwenUI\SwenUI\bin\SwenUI.pdb
+C:\Users\Jeremy Yong\Documents\Visual Studio 2012\Projects\SwenUI\SwenUI\obj\Debug\SwenUI.dll
+C:\Users\Jeremy Yong\Documents\Visual Studio 2012\Projects\SwenUI\SwenUI\obj\Debug\SwenUI.pdb
+C:\Users\Jeremy Yong\Documents\Visual Studio 2012\Projects\SwenUI\SwenUI\obj\Debug\SwenUI.csprojResolveAssemblyReference.cache
